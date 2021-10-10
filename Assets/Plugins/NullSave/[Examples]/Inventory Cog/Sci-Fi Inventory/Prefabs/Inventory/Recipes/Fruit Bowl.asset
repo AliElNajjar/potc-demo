@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23a07d16c28bbb4c88f3d678565d915, type: 3}
+  m_Name: Fruit Bowl
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: d0bfa75aca1c1d549991b1e4a25a81b1, type: 3}
+  displayName: Fruit Bowl
+  description: Mouth watering bowl of fruit
+  craftingCategory: {fileID: 11400000, guid: c901055b209f9df458a50058b7ee39ca, type: 2}
+  unlocked: 1
+  value: 0
+  successChance: 1
+  craftType: 0
+  craftTime: 0
+  craftSeconds: 60
+  componentType: 0
+  components:
+  - item: {fileID: 11400000, guid: 0925991752fa1824ea04553e750d229a, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: 5f17858ce0983464a86645fc006d990f, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: dae3ab1546b094741935e49f414381ad, type: 2}
+    count: 1
+  advancedComponents: []
+  result:
+  - item: {fileID: 11400000, guid: 911456681b5025748aea16536cb1919b, type: 2}
+    count: 1
+    conditionResult: 0
+    rarityResult: 0
+    valueResult: 0
+  failResult: []
+  baseItem:
+    upgradeItem: {fileID: 0}
+    minRarity: 0
+    maxRarity: 10
+    minCondition: 0
+    maxCondition: 1
+  upgradeSuccess:
+    upgradeResult: {fileID: 0}
+    condition: 0
+    conditionChange: 0
+    rarity: 0
+    rarityChange: 0
+  destoryOnFail: 1
+  z_display_flags: 4095

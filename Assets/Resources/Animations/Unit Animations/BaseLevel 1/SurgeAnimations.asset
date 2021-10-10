@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfb1563420d37f488d40adf498aca58, type: 3}
+  m_Name: SurgeAnimations
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleDown
+    frames:
+    - {fileID: 8947713893660845958, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 1
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: -5642351120556005634, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 8947713893660845958, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 280366000297909157, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkRight
+    frames:
+    - {fileID: 4513671085105157654, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 6660981334878251331, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: -2042464438176723056, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkLeft
+    frames:
+    - {fileID: 5766793778286942803, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: -5697514803467323105, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 3849310093973474557, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 690991054909894074, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: -2314616586107942648, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 3622873266472389890, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: IdleLeft
+    frames:
+    - {fileID: -824885335820751838, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 1821840232788337031, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 8024555268520808916, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: IdleRight
+    frames:
+    - {fileID: -824885335820751838, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 1821840232788337031, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    - {fileID: 8024555268520808916, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: IdleUp
+    frames:
+    - {fileID: 690991054909894074, guid: 9044bbb1d31de074ba233f93163732fe, type: 3}
+    framesPerSec: 1
+    loop: 1

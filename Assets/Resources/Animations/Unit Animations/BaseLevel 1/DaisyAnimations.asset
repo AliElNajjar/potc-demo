@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfb1563420d37f488d40adf498aca58, type: 3}
+  m_Name: DaisyAnimations
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleUp
+    frames:
+    - {fileID: 7317372710317256195, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleDown
+    frames:
+    - {fileID: -5862004326051305584, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleRight
+    frames:
+    - {fileID: 6432813623463586244, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleLeft
+    frames:
+    - {fileID: 5131412006112318862, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 7317372710317256195, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: 8038397755155049761, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: 2427545627200605704, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: -5862004326051305584, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: -6385604116918359163, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: 9200762753232209084, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 0
+    loop: 1
+  - name: WalkRight
+    frames:
+    - {fileID: 6432813623463586244, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: 5731670556906208261, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: -9131418711046895658, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkLeft
+    frames:
+    - {fileID: 5131412006112318862, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: -2582044336860261294, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    - {fileID: 1391477747166628934, guid: b4125c0f2f444124ab47f808ba75450c, type: 3}
+    framesPerSec: 5
+    loop: 1

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3dc0a1b293c19489cab09819c4168f, type: 3}
+  m_Name: CurePoison
+  m_EditorClassIdentifier: 
+  displayName: Cure Poison
+  description: Cures Poison Status
+  sprite: {fileID: 21300000, guid: 7b166470bc504684d8dc294ba1dc8491, type: 3}
+  displayInList: 1
+  category: Default
+  startedText: 
+  endedText: 
+  removedText: 
+  isDetrimental: 0
+  isBenificial: 1
+  isRemoveable: 0
+  effectParticles: {fileID: 0}
+  canStack: 0
+  modifiers: []
+  cancelEffects:
+  - {fileID: 11400000, guid: 69a357208a3244e4c801318642a22dab, type: 2}
+  preventEffects: []
+  hasLifeSpan: 0
+  lifeInSeconds: 30
+  onStart:
+    m_PersistentCalls:
+      m_Calls: []
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
+  currentTab: 0

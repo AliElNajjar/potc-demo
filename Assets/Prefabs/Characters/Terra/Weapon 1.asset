@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6409a71772181614582fd187e6f14433, type: 3}
+  m_Name: Weapon 1
+  m_EditorClassIdentifier: 
+  stats:
+    unitName: 
+    unitDescription: 
+    enduranceParam:
+      baseValue: 20
+      healthPoints: 35
+      constitutionPower: 31
+    strengthParam:
+      baseValue: 20
+      attackPower: 60
+      defensePower: 20
+    intelligenceParam:
+      baseValue: 20
+      magicPower: 41
+      acuityPower: 32
+    agilityParam:
+      baseValue: 43
+      initiativePower: 43
+      accuracyPower: 65
+      evasionPower: 12
+    wisdomParam:
+      baseValue: 45
+      manaPoints: 20
+      magicResist: 65
+    spiritParam:
+      baseValue: 54
+      luckPower: 2
+      deftnessPower: 13
+      charismaPower: 45
+  weaponType: 0
+  physicalType: 1
+  elementalType: 0
+  buyValue: 0
+  sellValue: 0
+  level: 0
+  size: 0
+  weight: 0

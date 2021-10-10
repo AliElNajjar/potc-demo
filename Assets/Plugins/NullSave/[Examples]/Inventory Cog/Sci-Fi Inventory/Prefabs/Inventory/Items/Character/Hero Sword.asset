@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Hero Sword
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 01c8c0bca06811f46aa1c22e5461cca0, type: 3}
+  displayName: Hero Sword
+  description: This magical sword was forged long ago for the hero foretold by legend.
+    You must have great power to wield it.
+  subtext: 
+  category: {fileID: 11400000, guid: f2e1a7431b98e2a4c855bc84cb6ea4ec, type: 2}
+  uiTags: []
+  customStats:
+  - statName: Damage
+    statValue: 53
+  customTags: []
+  itemType: 1
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  freeSlotWhenEquipped: 1
+  previewObject: {fileID: 8291919484678092380, guid: 3a12f63fefcd1c84db7fa91576185f57,
+    type: 3}
+  previewScale: 1
+  condition: 1
+  rarity: 5
+  weight: 8
+  value: 0
+  canStack: 0
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 5454742037930355852, guid: 867cb1bc57a21dc448336904fa1110e9,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints:
+  - LeftHand
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  dropObject: {fileID: 903086454790309935, guid: 11721ea4a67877645abf4c25b0085aa6,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownCategory: 
+  breakdownResult: []
+  z_display_flags: 3597

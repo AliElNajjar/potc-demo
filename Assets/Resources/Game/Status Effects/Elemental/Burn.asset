@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3dc0a1b293c19489cab09819c4168f, type: 3}
+  m_Name: Burn
+  m_EditorClassIdentifier: 
+  displayName: Burn
+  description: Inflicts damage to the unit at the start of each round.
+  sprite: {fileID: 0}
+  displayInList: 1
+  category: Default
+  startedText: <name> was burned!
+  endedText: <name> has recovered from burn.
+  removedText: 
+  isDetrimental: 1
+  isBenificial: 0
+  isRemoveable: 1
+  effectParticles: {fileID: 0}
+  canStack: 1
+  modifiers:
+  - icon: {fileID: 0}
+    displayText: 
+    textColor: {r: 0, g: 0, b: 0, a: 0}
+    hideInList: 0
+    affectedStat: Health Points
+    effectType: 0
+    valueTarget: 0
+    valueType: 3
+    value: 0.05
+  cancelEffects: []
+  preventEffects: []
+  hasLifeSpan: 1
+  lifeInSeconds: 5
+  resetLifeOnAdd: 1
+  onStart:
+    m_PersistentCalls:
+      m_Calls: []
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
+  z_display_flags: 4095

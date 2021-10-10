@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Emerald (Square Cut)
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7dd92d1289394b04fa85d94d2fbeb4b4, type: 3}
+  displayName: Emerald (Square Cut)
+  description: Attaching this gem to an item will increase your attack strength.
+  subtext: 
+  category: {fileID: 11400000, guid: 1d67b7c2704132b49a93c57a1e6690ce, type: 2}
+  uiTags: []
+  displayRecipe: {fileID: 0}
+  allowCustomName: 0
+  modifyName: 1
+  nameModifier: Aggressive
+  modifierOrder: 0
+  customTags: []
+  itemType: 10
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  previewObject: {fileID: 5178367146551410549, guid: fe6cf01a619550d44af7f4f94b8b67e7,
+    type: 3}
+  previewScale: 3
+  condition: 1
+  rarity: 0
+  weight: 0
+  value: 125
+  canStack: 1
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 0}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints: []
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  equipSource: 0
+  equipExpression: 1 > 0
+  dropObject: {fileID: 4064669754151018019, guid: 0e2b1193518984e45bc8233fbcceea4e,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairSource: 0
+  repairExpression: 1 > 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownSource: 0
+  breakdownExpression: 1 > 0
+  breakdownCategory: 
+  breakdownResult: []
+  attachRequirement: 0
+  attachCatsFilter: []
+  attachItemsFilter: []
+  attachSlots: []
+  attachObject: {fileID: 7838072454104240771, guid: 90a28f5af945ec64cafe35783bca3f2b,
+    type: 3}
+  attachPoints:
+  - SquareSlot
+  statEffects:
+  - {fileID: 11400000, guid: 1564589300100514dad9152f1a09b5e4, type: 2}
+  onAttachmentAdded:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAttachmentRemoved:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  z_display_flags: 4095

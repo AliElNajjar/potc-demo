@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23a07d16c28bbb4c88f3d678565d915, type: 3}
+  m_Name: Refine Metal
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: f6519856d646d624cae9c994f47f428a, type: 3}
+  displayName: Refine Metal
+  description: 
+  craftingCategory: {fileID: 11400000, guid: d6632a6f9471e2d4da27af73a47aa0f6, type: 2}
+  unlocked: 1
+  value: 0
+  successChance: 1
+  craftType: 1
+  craftTime: 1
+  craftSeconds: 3
+  componentType: 0
+  components:
+  - item: {fileID: 11400000, guid: f04e4ad7f7880274f80508cc4592cb20, type: 2}
+    count: 1
+  advancedComponents: []
+  result: []
+  failResult: []
+  baseItem:
+    upgradeItem: {fileID: 11400000, guid: f04e4ad7f7880274f80508cc4592cb20, type: 2}
+    minRarity: 0
+    maxRarity: 10
+    minCondition: 0
+    maxCondition: 0.49
+  upgradeSuccess:
+    upgradeResult: {fileID: 11400000, guid: f04e4ad7f7880274f80508cc4592cb20, type: 2}
+    condition: 1
+    conditionChange: 0.25
+    rarity: 0
+    rarityChange: 0
+  destoryOnFail: 0
+  z_display_flags: 4095

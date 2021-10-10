@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfb1563420d37f488d40adf498aca58, type: 3}
+  m_Name: JazzAnimations
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleUp
+    frames:
+    - {fileID: -8007583924991075750, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleDown
+    frames:
+    - {fileID: -8343149967192710781, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleRight
+    frames:
+    - {fileID: -5760669832063901309, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleLeft
+    frames:
+    - {fileID: -6662201301464781590, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: -756516777521447128, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    - {fileID: -6613574579330844833, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    - {fileID: -8007583924991075750, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    framesPerSec: 0
+    loop: 1
+  - name: WalkRight
+    frames:
+    - {fileID: 3881792141749797370, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    - {fileID: 1118521119122502597, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    - {fileID: -2472457132242929298, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkLeft
+    frames:
+    - {fileID: 5887693743712102219, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    - {fileID: 2498717303790256546, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    - {fileID: -1167974069166105930, guid: 03bb2b8676d6f94449a8d379be7ec1be, type: 3}
+    framesPerSec: 5
+    loop: 1

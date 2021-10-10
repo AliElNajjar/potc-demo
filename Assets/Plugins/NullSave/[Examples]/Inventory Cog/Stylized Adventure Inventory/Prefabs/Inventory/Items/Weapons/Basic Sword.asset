@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Basic Sword
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 8e479e5c6f951a5478c303981ddf9b6a, type: 3}
+  displayName: Basic Sword
+  description: A basic one-handed sword. You can find just about anyone in the countryside
+    wielding one of these.
+  subtext: 
+  category: {fileID: 11400000, guid: 81950bef6a4c8d04aadf569028278851, type: 2}
+  uiTags: []
+  customStats:
+  - statName: Damage
+    statValue: 40
+  customTags: []
+  itemType: 1
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  previewObject: {fileID: 0}
+  previewScale: 1
+  condition: 0.734
+  rarity: 2
+  weight: 5
+  value: 0
+  canStack: 0
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 1510655849323240671, guid: 2f47a3e579bbc724eaf18aca12f30460,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints:
+  - LeftHand
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  dropObject: {fileID: 5396706124166709592, guid: d4217eb3d615c904da78a4f6f83574d8,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownCategory: 
+  breakdownResult: []
+  z_display_flags: 4095

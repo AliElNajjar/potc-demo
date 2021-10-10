@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Bracelet
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 9c5218b405846cf4aaafc290c9ab43c6, type: 3}
+  displayName: Bracelet
+  description: This bracelet increases your defense when equipped. How does a bracelet
+    increase defense? Don't worry about it.
+  subtext: 
+  category: {fileID: 11400000, guid: 23e5e99b55eaa80438e88a96b74ecf64, type: 2}
+  uiTags: []
+  displayRecipe: {fileID: 0}
+  allowCustomName: 0
+  modifyName: 0
+  nameModifier: 
+  modifierOrder: 0
+  customTags: []
+  itemType: 0
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  previewObject: {fileID: 4187227300831643761, guid: 6070907dd77ef69489a8b127db4b5f97,
+    type: 3}
+  previewScale: 3.5
+  condition: 1
+  rarity: 0
+  weight: 0
+  value: 120
+  canStack: 1
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 4187227300831643761, guid: 9e89b712e26aaa640b1104ad2ecec914,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints:
+  - LeftLowerArm
+  - RightLowerArm
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  equipSource: 0
+  equipExpression: 1 > 0
+  dropObject: {fileID: 7312975378675327592, guid: bbd8de59aaa885040a12138f4d44493c,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairSource: 0
+  repairExpression: 1 > 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownSource: 0
+  breakdownExpression: 1 > 0
+  breakdownCategory: 
+  breakdownResult: []
+  attachRequirement: 1
+  attachCatsFilter:
+  - {fileID: 11400000, guid: 1d67b7c2704132b49a93c57a1e6690ce, type: 2}
+  attachItemsFilter: []
+  attachSlots: []
+  attachObject: {fileID: 0}
+  attachPoints: []
+  statEffects:
+  - {fileID: 11400000, guid: d7ed41a7cb15ebc42ba982dd61126c39, type: 2}
+  onAttachmentAdded:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAttachmentRemoved:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  z_display_flags: 3991

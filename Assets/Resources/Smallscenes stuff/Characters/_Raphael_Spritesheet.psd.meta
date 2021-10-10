@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 56c19da0ace32a74782dca41f124a965
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6752951708216693858
+    second: _Raphael_Spritesheet_0
+  - first:
+      213: 6391813112946563048
+    second: _Raphael_Spritesheet_1
+  - first:
+      213: -4053383848055801924
+    second: _Raphael_Spritesheet_2
+  - first:
+      213: -8581381211253160588
+    second: _Raphael_Spritesheet_3
+  - first:
+      213: 6988066347047513568
+    second: _Raphael_Spritesheet_4
+  - first:
+      213: -7579025557918029389
+    second: _Raphael_Spritesheet_5
+  - first:
+      213: 5122401510602758241
+    second: _Raphael_Spritesheet_6
+  - first:
+      213: 459666753843583004
+    second: _Raphael_Spritesheet_7
+  - first:
+      213: -8683963505480586792
+    second: _Raphael_Spritesheet_8
+  - first:
+      213: 5978620664043137272
+    second: _Raphael_Spritesheet_9
+  - first:
+      213: -8549334125438387142
+    second: _Raphael_Spritesheet_10
+  - first:
+      213: 2988895176806308477
+    second: _Raphael_Spritesheet_11
+  - first:
+      213: 2640671648987629370
+    second: _Raphael_Spritesheet_12
+  - first:
+      213: -6404225952730386514
+    second: _Raphael_Spritesheet_13
+  - first:
+      213: -4966331607680152632
+    second: _Raphael_Spritesheet_14
+  - first:
+      213: 6275109282709318550
+    second: _Raphael_Spritesheet_15
+  - first:
+      213: 8878225265078737623
+    second: _Raphael_Spritesheet_16
+  - first:
+      213: 174146604818938211
+    second: _Raphael_Spritesheet_17
+  - first:
+      213: 7101093184253191115
+    second: _Raphael_Spritesheet_18
+  - first:
+      213: 2789218010595430285
+    second: _Raphael_Spritesheet_19
+  - first:
+      213: -9186670290053807808
+    second: _Raphael_Spritesheet_20
+  - first:
+      213: -1225676132712515004
+    second: _Raphael_Spritesheet_21
+  - first:
+      213: 3825635570517996615
+    second: _Raphael_Spritesheet_22
+  - first:
+      213: 6406599656093565961
+    second: _Raphael_Spritesheet_23
+  - first:
+      213: 2989728087008870943
+    second: _Raphael_Spritesheet_24
+  - first:
+      213: -6079917106640614052
+    second: _Raphael_Spritesheet_25
+  - first:
+      213: 824507687974795894
+    second: _Raphael_Spritesheet_26
+  - first:
+      213: 715460032849039921
+    second: _Raphael_Spritesheet_27
+  - first:
+      213: 4827097252531028200
+    second: _Raphael_Spritesheet_28
+  - first:
+      213: -4292497418957203051
+    second: _Raphael_Spritesheet_29
+  - first:
+      213: -3574546105961444116
+    second: _Raphael_Spritesheet_30
+  - first:
+      213: -1047730035651302053
+    second: _Raphael_Spritesheet_31
+  - first:
+      213: 8132577411896392325
+    second: _Raphael_Spritesheet_32
+  - first:
+      213: 3924943168846258015
+    second: _Raphael_Spritesheet_33
+  - first:
+      213: 3173172837544337536
+    second: _Raphael_Spritesheet_34
+  - first:
+      213: 338016186983136307
+    second: _Raphael_Spritesheet_35
+  - first:
+      213: 3831434565023628222
+    second: _Raphael_Spritesheet_36
+  - first:
+      213: -3147449426936972777
+    second: _Raphael_Spritesheet_37
+  - first:
+      213: -9118214080702264886
+    second: _Raphael_Spritesheet_38
+  - first:
+      213: 5663665071427531684
+    second: _Raphael_Spritesheet_39
+  - first:
+      213: 8662326915550635246
+    second: _Raphael_Spritesheet_40
+  - first:
+      213: 2676873700456282779
+    second: _Raphael_Spritesheet_41
+  - first:
+      213: -7237479695798080418
+    second: _Raphael_Spritesheet_42
+  - first:
+      213: 2906855231226870011
+    second: _Raphael_Spritesheet_43
+  - first:
+      213: -4016537733022169322
+    second: _Raphael_Spritesheet_44
+  - first:
+      213: 872975886022997887
+    second: _Raphael_Spritesheet_45
+  - first:
+      213: 3943010245007673216
+    second: _Raphael_Spritesheet_46
+  - first:
+      213: -4258814218652258893
+    second: _Raphael_Spritesheet_47
+  - first:
+      213: 6320501690524696566
+    second: _Raphael_Spritesheet_48
+  - first:
+      213: 8178608790840414566
+    second: _Raphael_Spritesheet_49
+  - first:
+      213: -7717772249188956365
+    second: _Raphael_Spritesheet_50
+  - first:
+      213: 1457820223036122875
+    second: _Raphael_Spritesheet_51
+  - first:
+      213: 8302061037377385167
+    second: _Raphael_Spritesheet_52
+  - first:
+      213: 5040407156210766455
+    second: _Raphael_Spritesheet_53
+  - first:
+      213: 630755780791497506
+    second: _Raphael_Spritesheet_54
+  - first:
+      213: 1661496555295489476
+    second: _Raphael_Spritesheet_55
+  - first:
+      213: -6487351733177448052
+    second: _Raphael_Spritesheet_56
+  - first:
+      213: -8726130261174161133
+    second: _Raphael_Spritesheet_57
+  - first:
+      213: -7883693190205649340
+    second: _Raphael_Spritesheet_58
+  - first:
+      213: -3650153857103992574
+    second: _Raphael_Spritesheet_59
+  - first:
+      213: 8840553890401485760
+    second: _Raphael_Spritesheet_60
+  - first:
+      213: -5023514330382892655
+    second: _Raphael_Spritesheet_61
+  - first:
+      213: -1744188885512299915
+    second: _Raphael_Spritesheet_62
+  - first:
+      213: 1865048927427184874
+    second: _Raphael_Spritesheet_63
+  - first:
+      213: 7828694785394473014
+    second: _Raphael_Spritesheet_64
+  - first:
+      213: 7282229827479006142
+    second: _Raphael_Spritesheet_65
+  - first:
+      213: -3122084896757665393
+    second: _Raphael_Spritesheet_66
+  - first:
+      213: -8943791224111488939
+    second: _Raphael_Spritesheet_67
+  - first:
+      213: -2191444765273193475
+    second: _Raphael_Spritesheet_68
+  - first:
+      213: 2118944135280017517
+    second: _Raphael_Spritesheet_69
+  - first:
+      213: -996053748778410884
+    second: _Raphael_Spritesheet_70
+  - first:
+      213: 3003061687772435741
+    second: _Raphael_Spritesheet_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649f99cccd47bd50800000000000000
+      internalID: 6752951708216693858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71dd3392844b850800000000000000
+      internalID: 6391813112946563048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f35eaddc7fb7c0800000000000000
+      internalID: -4053383848055801924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4754b05214fc8e880800000000000000
+      internalID: -8581381211253160588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede0aa71599af060800000000000000
+      internalID: 6988066347047513568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b960b41964e1d690800000000000000
+      internalID: -7579025557918029389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d664c80d661740800000000000000
+      internalID: 5122401510602758241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1857e92a70116600800000000000000
+      internalID: 459666753843583004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9af5d833d5c7780800000000000000
+      internalID: -8683963505480586792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e91f51d358f250800000000000000
+      internalID: 5978620664043137272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cbe13c8e9aa5980800000000000000
+      internalID: -8549334125438387142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a1b64d350ba7920800000000000000
+      internalID: 2988895176806308477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374a56bfdc85a420800000000000000
+      internalID: 2640671648987629370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafea225d6e9f17a0800000000000000
+      internalID: -6404225952730386514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0e6f27bb041bb0800000000000000
+      internalID: -4966331607680152632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b25aa45aaa51750800000000000000
+      internalID: 6275109282709318550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9ae8f6dac53b70800000000000000
+      internalID: 8878225265078737623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Raphael_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b2171a61ba6200800000000000000
+      internalID: 174146604818938211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b679b400060cd4e4d92f79a12f81a2ef
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Maps/Chapter 7/Tilesets/Slates v.2 [32x32px orthogonal tileset by Ivan
+    Voirol].png
+  errors:
+  - 'Missing texture asset: Tilesets/Slates v.2 [32x32px orthogonal tileset by Ivan
+    Voirol].png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

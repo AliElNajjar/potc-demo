@@ -1,0 +1,106 @@
+{
+  "UnitsClassesValues": [
+    {
+      "Slash": 10,
+      "Crush": 10,
+      "Pierce": 10,
+      "Health": 20,
+      "Mind": -20,
+      "Sound": 0,
+      "Time": 0,
+      "Soul": 10
+    },
+    {
+      "Slash": 0,
+      "Crush": -10,
+      "Pierce": 20,
+      "Health": 10,
+      "Mind": 20,
+      "Sound": 0,
+      "Time": -20,
+      "Soul": -10
+    },
+    {
+      "Slash": 0,
+      "Crush": 0,
+      "Pierce": 0,
+      "Health": 0,
+      "Mind": 10,
+      "Sound": 0,
+      "Time": 0,
+      "Soul": 20
+    },
+    {
+      "Slash": 10,
+      "Crush": 0,
+      "Pierce": 10,
+      "Health": 0,
+      "Mind": 10,
+      "Sound": 10,
+      "Time": 20,
+      "Soul": -20
+    },
+    {
+      "Slash": -10,
+      "Crush": 0,
+      "Pierce": 0,
+      "Health": -20,
+      "Mind": 20,
+      "Sound": 0,
+      "Time": 0,
+      "Soul": 0
+    },
+    {
+      "Slash": 20,
+      "Crush": -20,
+      "Pierce": 20,
+      "Health": -10,
+      "Mind": -10,
+      "Sound": -10,
+      "Time": -10,
+      "Soul": -10
+    },
+    {
+      "Slash": -10,
+      "Crush": -10,
+      "Pierce": -10,
+      "Health": 20,
+      "Mind": 10,
+      "Sound": 20,
+      "Time": 10,
+      "Soul": 20
+    },
+    {
+      "Slash": 5,
+      "Crush": 5,
+      "Pierce": 5,
+      "Health": 0,
+      "Mind": 0,
+      "Sound": 0,
+      "Time": 0,
+      "Soul": 0
+    },
+    {
+      "Slash": 0,
+      "Crush": 20,
+      "Pierce": 0,
+      "Health": 0,
+      "Mind": 0,
+      "Sound": 0,
+      "Time": 0,
+      "Soul": 0
+    },
+    {
+      "Slash": 0,
+      "Crush": 0,
+      "Pierce": 0,
+      "Health": 0,
+      "Mind": 0,
+      "Sound": 20,
+      "Time": -20,
+      "Soul": 0
+    }
+  ]
+}
+
+

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Leather Pauldron
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: bde5234305cb25546a444671c1cafaec, type: 3}
+  displayName: Left Leather Pauldron
+  description: Leather armor offers basic protection from attack.
+  subtext: 
+  category: {fileID: 11400000, guid: 23e5e99b55eaa80438e88a96b74ecf64, type: 2}
+  uiTags: []
+  displayRecipe: {fileID: 0}
+  allowCustomName: 1
+  modifyName: 0
+  nameModifier: 
+  modifierOrder: 0
+  customTags: []
+  itemType: 0
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  previewObject: {fileID: 1370623886552846581, guid: 3786f116b74ce23438d17cdce2adf5a0,
+    type: 3}
+  previewScale: 2
+  condition: 1
+  rarity: 0
+  weight: 0
+  value: 30
+  canStack: 0
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 4241264212730681698, guid: 386ea8a898ad4b4409b9c40b0bf55888,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints:
+  - LeftShoulder
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  equipSource: 0
+  equipExpression: 1 > 0
+  dropObject: {fileID: 6276793823314992034, guid: 856a5a46600fb4847b952569f1df5c92,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairSource: 0
+  repairExpression: 1 > 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownSource: 0
+  breakdownExpression: 1 > 0
+  breakdownCategory: 
+  breakdownResult: []
+  attachRequirement: 0
+  attachCatsFilter: []
+  attachItemsFilter: []
+  attachSlots: []
+  attachObject: {fileID: 0}
+  attachPoints: []
+  statEffects:
+  - {fileID: 11400000, guid: 2450b04bb04cf2447880e2fd4ff88329, type: 2}
+  onAttachmentAdded:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAttachmentRemoved:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  z_display_flags: 3061

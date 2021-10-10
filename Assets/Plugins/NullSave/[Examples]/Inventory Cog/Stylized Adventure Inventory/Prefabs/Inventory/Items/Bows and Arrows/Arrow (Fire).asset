@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Arrow (Fire)
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c3014ad08982054429e36fa186847cfa, type: 3}
+  displayName: Arrow
+  description: An arrow embued with fire.
+  subtext: 
+  category: {fileID: 11400000, guid: 48ce27570c8303b42b042d2be83d1b1d, type: 2}
+  uiTags: []
+  itemType: 4
+  usesAmmo: 1
+  ammoType: Arrow
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  condition: 1
+  rarity: 2
+  weight: 0
+  value: 0
+  canStack: 1
+  countPerStack: 999
+  hasMaxStacks: 1
+  maxStacks: 1
+  equipObject: {fileID: 0}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints: []
+  canEquip: 1
+  canDrop: 0
+  canStore: 0
+  dropObject: {fileID: 0}

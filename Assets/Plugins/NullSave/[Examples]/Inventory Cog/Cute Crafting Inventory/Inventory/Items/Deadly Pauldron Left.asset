@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Deadly Pauldron Left
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: fe20db601b3ad5d488df3b15b0477d4e, type: 3}
+  displayName: Deadly Left Pauldron
+  description: Pauldron often worn on the left shoulder of Deadly Daughters who lurk
+    in the depths of the sunken city of Euphoria.
+  subtext: 
+  category: {fileID: 11400000, guid: e9175e629cbdf454ea4d061e1d999e3d, type: 2}
+  uiTags:
+  - {fileID: 11400000, guid: 6e04f85bba8e44f44a2c8fb5fba1148b, type: 2}
+  customStats:
+  - statName: Damage
+    statValue: 15
+  customTags: []
+  itemType: 2
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 1
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  previewObject: {fileID: 8825257229327552875, guid: d7a8050dadf9b4e429c90ac6fc12fd3f,
+    type: 3}
+  previewScale: 1
+  condition: 0.81
+  rarity: 3
+  weight: 0
+  value: 40
+  canStack: 0
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 7323999553971938401, guid: fba2b062e3f79214cadb6b5b479fac8e,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints:
+  - LeftShoulder
+  canEquip: 1
+  canDrop: 0
+  canStore: 0
+  dropObject: {fileID: 0}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 1
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents:
+  - item: {fileID: 11400000, guid: 0d18e6113d5f8ce4886472f9c4f14512, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: 5201f29ba58b89b48882e53da41656e6, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: 012ab6fe036c2ae48a2e8480fec432b0, type: 2}
+    count: 1
+  canBreakdown: 1
+  breakdownCategory: Misc
+  breakdownResult:
+  - item: {fileID: 11400000, guid: 0d18e6113d5f8ce4886472f9c4f14512, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: 5201f29ba58b89b48882e53da41656e6, type: 2}
+    count: 1
+  z_display_flags: 3725

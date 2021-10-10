@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3dc0a1b293c19489cab09819c4168f, type: 3}
+  m_Name: Poison
+  m_EditorClassIdentifier: 
+  displayName: Poison
+  description: Posion
+  sprite: {fileID: 21300000, guid: dcb461b8d93517643bdf150d1e143365, type: 3}
+  displayInList: 1
+  category: Default
+  startedText: 
+  endedText: 
+  removedText: 
+  isDetrimental: 1
+  isBenificial: 0
+  isRemoveable: 1
+  effectParticles: {fileID: 0}
+  canStack: 0
+  modifiers:
+  - icon: {fileID: 0}
+    displayText: Poison
+    textColor: {r: 0, g: 0, b: 0, a: 0}
+    hideInList: 0
+    affectedStat: Health
+    effectType: 1
+    valueTarget: 0
+    valueType: 2
+    value: 2
+  cancelEffects: []
+  preventEffects: []
+  hasLifeSpan: 1
+  lifeInSeconds: 5
+  onStart:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  currentTab: 0

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: TestAction
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  displayName: 
+  description: 
+  subtext: 
+  category: {fileID: 11400000, guid: 54735218c9184694e870228d25b68c38, type: 2}
+  uiTags: []
+  displayRecipe: {fileID: 0}
+  allowCustomName: 0
+  modifyName: 0
+  nameModifier: 
+  modifierOrder: 0
+  customTags: []
+  itemType: 0
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 0
+  useSlotId: 0
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  canSell: 1
+  previewObject: {fileID: 0}
+  previewScale: 1
+  condition: 1
+  rarity: 0
+  weight: 0
+  value: 0
+  canStack: 1
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 0}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints: []
+  canEquip: 1
+  canDrop: 0
+  canStore: 0
+  equipSource: 0
+  equipExpression: 1 > 0
+  dropObject: {fileID: 0}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairSource: 0
+  repairExpression: 1 > 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownSource: 0
+  breakdownExpression: 1 > 0
+  breakdownCategory: 
+  breakdownResult: []
+  attachRequirement: 0
+  attachCatsFilter: []
+  attachItemsFilter: []
+  attachSlots: []
+  attachObject: {fileID: 0}
+  attachPoints: []
+  statEffects: []
+  onAttachmentAdded:
+    m_PersistentCalls:
+      m_Calls: []
+  onAttachmentRemoved:
+    m_PersistentCalls:
+      m_Calls: []
+  z_display_flags: 4095

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - LoadTrigger
+  - Enemy
+  - GameManager
+  - SubMenu Item
+  - Menu Item
+  - AfterBattle
+  - Waypoint
+  - Level Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundLayer
+  - 
+  - 
+  - Characters
+  - Structures
+  - CameraBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 454333751
+    locked: 0
+  - name: ObjectsBack
+    uniqueID: 4154140977
+    locked: 0
+  - name: Shades
+    uniqueID: 2885612275
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ObjectsFront
+    uniqueID: 3292944245
+    locked: 0

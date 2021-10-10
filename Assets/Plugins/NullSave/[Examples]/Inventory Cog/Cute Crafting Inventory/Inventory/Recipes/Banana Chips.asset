@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23a07d16c28bbb4c88f3d678565d915, type: 3}
+  m_Name: Banana Chips
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: af836be9afd398643ba621983664c67c, type: 3}
+  displayName: Banana Chips
+  description: 
+  craftingCategory: {fileID: 11400000, guid: a26c50b9adf40364cb8b493cdb40a7dc, type: 2}
+  unlocked: 1
+  value: 0
+  successChance: 1
+  craftType: 0
+  craftTime: 1
+  craftSeconds: 10
+  components:
+  - item: {fileID: 11400000, guid: e158f116dc90c85448a4b3ac6835c5f5, type: 2}
+    count: 1
+  result:
+  - item: {fileID: 11400000, guid: 9c95168dda660e04ebed1fbcec9fae28, type: 2}
+    count: 1
+    conditionResult: 0
+    rarityResult: 0
+    valueResult: 0
+  failResult: []
+  baseItem:
+    upgradeItem: {fileID: 0}
+    minRarity: 0
+    maxRarity: 10
+    minCondition: 0
+    maxCondition: 1
+  upgradeSuccess:
+    upgradeResult: {fileID: 0}
+    condition: 0
+    conditionChange: 0
+    rarity: 0
+    rarityChange: 0
+  destoryOnFail: 1
+  z_display_flags: 4095

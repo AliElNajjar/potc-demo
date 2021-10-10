@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 56b19a88402186b44abaa5067bbbc2e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BaseRig
+    100002: Chest
+    100004: Foot.L
+    100006: Foot.R
+    100008: Hand.L
+    100010: Hand.R
+    100012: Head
+    100014: Head_end
+    100016: Hips
+    100018: Index.Dist.L
+    100020: Index.Dist.L_end
+    100022: Index.Dist.R
+    100024: Index.Dist.R_end
+    100026: Index.Int.L
+    100028: Index.Int.R
+    100030: Index.Prox.L
+    100032: Index.Prox.R
+    100034: LowerArm.L
+    100036: LowerArm.R
+    100038: LowerLeg.L
+    100040: LowerLeg.R
+    100042: Middle.Dist.L
+    100044: Middle.Dist.L_end
+    100046: Middle.Dist.R
+    100048: Middle.Dist.R_end
+    100050: Middle.Int.L
+    100052: Middle.Int.R
+    100054: Middle.Prox.L
+    100056: Middle.Prox.R
+    100058: Neck
+    100060: Powered Legs
+    100062: //RootNode
+    100064: Shoulder.L
+    100066: Shoulder.R
+    100068: Spine
+    100070: Thumb.Dist.L
+    100072: Thumb.Dist.L_end
+    100074: Thumb.Dist.R
+    100076: Thumb.Dist.R_end
+    100078: Thumb.Int.L
+    100080: Thumb.Int.R
+    100082: Thumb.Prox.L
+    100084: Thumb.Prox.R
+    100086: Toes.L
+    100088: Toes.L_end
+    100090: Toes.R
+    100092: Toes.R_end
+    100094: UpperArm.L
+    100096: UpperArm.R
+    100098: UpperChest
+    100100: UpperLeg.L
+    100102: UpperLeg.R
+    100104: Head_end_end
+    100106: Index.Dist.L_end_end
+    100108: Index.Dist.R_end_end
+    100110: Middle.Dist.L_end_end
+    100112: Middle.Dist.R_end_end
+    100114: Thumb.Dist.L_end_end
+    100116: Thumb.Dist.R_end_end
+    100118: Toes.L_end_end
+    100120: Toes.R_end_end
+    100122: Head_end_end_end
+    100124: Index.Dist.L_end_end_end
+    100126: Index.Dist.R_end_end_end
+    100128: Middle.Dist.L_end_end_end
+    100130: Middle.Dist.R_end_end_end
+    100132: Thumb.Dist.L_end_end_end
+    100134: Thumb.Dist.R_end_end_end
+    100136: Toes.L_end_end_end
+    100138: Toes.R_end_end_end
+    400000: BaseRig
+    400002: Chest
+    400004: Foot.L
+    400006: Foot.R
+    400008: Hand.L
+    400010: Hand.R
+    400012: Head
+    400014: Head_end
+    400016: Hips
+    400018: Index.Dist.L
+    400020: Index.Dist.L_end
+    400022: Index.Dist.R
+    400024: Index.Dist.R_end
+    400026: Index.Int.L
+    400028: Index.Int.R
+    400030: Index.Prox.L
+    400032: Index.Prox.R
+    400034: LowerArm.L
+    400036: LowerArm.R
+    400038: LowerLeg.L
+    400040: LowerLeg.R
+    400042: Middle.Dist.L
+    400044: Middle.Dist.L_end
+    400046: Middle.Dist.R
+    400048: Middle.Dist.R_end
+    400050: Middle.Int.L
+    400052: Middle.Int.R
+    400054: Middle.Prox.L
+    400056: Middle.Prox.R
+    400058: Neck
+    400060: Powered Legs
+    400062: //RootNode
+    400064: Shoulder.L
+    400066: Shoulder.R
+    400068: Spine
+    400070: Thumb.Dist.L
+    400072: Thumb.Dist.L_end
+    400074: Thumb.Dist.R
+    400076: Thumb.Dist.R_end
+    400078: Thumb.Int.L
+    400080: Thumb.Int.R
+    400082: Thumb.Prox.L
+    400084: Thumb.Prox.R
+    400086: Toes.L
+    400088: Toes.L_end
+    400090: Toes.R
+    400092: Toes.R_end
+    400094: UpperArm.L
+    400096: UpperArm.R
+    400098: UpperChest
+    400100: UpperLeg.L
+    400102: UpperLeg.R
+    400104: Head_end_end
+    400106: Index.Dist.L_end_end
+    400108: Index.Dist.R_end_end
+    400110: Middle.Dist.L_end_end
+    400112: Middle.Dist.R_end_end
+    400114: Thumb.Dist.L_end_end
+    400116: Thumb.Dist.R_end_end
+    400118: Toes.L_end_end
+    400120: Toes.R_end_end
+    400122: Head_end_end_end
+    400124: Index.Dist.L_end_end_end
+    400126: Index.Dist.R_end_end_end
+    400128: Middle.Dist.L_end_end_end
+    400130: Middle.Dist.R_end_end_end
+    400132: Thumb.Dist.L_end_end_end
+    400134: Thumb.Dist.R_end_end_end
+    400136: Toes.L_end_end_end
+    400138: Toes.R_end_end_end
+    2100000: Steel
+    2100002: Gold
+    4300000: Powered Legs
+    9500000: //RootNode
+    13700000: Powered Legs
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 151b027642c40e3458b03557742a94fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

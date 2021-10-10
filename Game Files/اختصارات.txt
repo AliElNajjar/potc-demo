@@ -1,0 +1,25 @@
+Endurance affects:
+* -Hit Points (HP): 
+* Constitution (Con): 
+
+Strength affects :
+* Attack (ATK): 
+* Defense (Def): 
+
+Intellect affects::
+* -Magic (Mag)
+* Acuity (Acty)
+
+Dexterity affects:
+*Initiative (Init)
+* Accuracy (Acc)
+* Evasion (Evsn)
+
+Wisdom affects:
+* Mana Points (MP)
+* Resilience (Res)
+
+Spirit affects:
+* Luck
+* Charisma (Cha)
+* Deftness (Deft)

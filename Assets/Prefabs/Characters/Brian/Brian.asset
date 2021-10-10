@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df4bec941bb8f6448fcb17832e57ba8, type: 3}
+  m_Name: Brian
+  m_EditorClassIdentifier: 
+  unitImages:
+    portraitImage: {fileID: 0}
+    towerImage: {fileID: 0}
+    fullImage: {fileID: 0}
+  unitParams:
+    unitName: Brian
+    unitDescription: 
+    enduranceParam:
+      baseValue: 110
+      healthPoints: 198
+      constitutionPower: 88
+    strengthParam:
+      baseValue: 100
+      attackPower: 100
+      defensePower: 90
+    intelligenceParam:
+      baseValue: 20
+      magicPower: 10
+      acuityPower: 16
+    agilityParam:
+      baseValue: 65
+      initiativePower: 52
+      accuracyPower: 71.5
+      evasionPower: 13
+    wisdomParam:
+      baseValue: 45
+      manaPoints: 31.5
+      magicResist: 27.000002
+    spiritParam:
+      baseValue: 60
+      luckPower: 42
+      deftnessPower: 48
+      charismaPower: 6
+  unitClass: {fileID: 11400000, guid: ec110ccff08f48e41ba48192eb20e9fe, type: 2}
+  baseBuffs: []
+  armors:
+  - {fileID: 11400000, guid: c4890b5adf5a7ff439208b5b6bce927e, type: 2}
+  weapons:
+  - {fileID: 11400000, guid: c080e1bd3b883144d95a521d83dc2063, type: 2}
+  baseSkill: []
+  earnedSkill: []
+  traits: {fileID: 0}
+  moveType: 0
+  shotType: 0
+  affinity: 0
+  rankType: 0
+  parameterGrowth: 0
+  skillPointGrowth: 0
+  experience: 0

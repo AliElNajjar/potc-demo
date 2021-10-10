@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3dc0a1b293c19489cab09819c4168f, type: 3}
+  m_Name: Despair
+  m_EditorClassIdentifier: 
+  displayName: 
+  description: Cancels the unit's passive skills for one round.
+  sprite: {fileID: 0}
+  displayInList: 1
+  category: Default
+  startedText: <name> has fallen into despair!
+  endedText: <name> has seen the light.
+  removedText: 
+  isDetrimental: 1
+  isBenificial: 0
+  isRemoveable: 1
+  effectParticles: {fileID: 0}
+  canStack: 0
+  modifiers: []
+  cancelEffects: []
+  preventEffects: []
+  hasLifeSpan: 1
+  lifeInSeconds: 1
+  resetLifeOnAdd: 0
+  onStart:
+    m_PersistentCalls:
+      m_Calls: []
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
+  z_display_flags: 4095

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Tower Shield
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 918d0ae694cd4904183067709c79fe60, type: 3}
+  displayName: Tower Shield
+  description: Dipped in gold and imbued with magic this shield can reflect attacks
+    back at your enemy.
+  subtext: 
+  category: {fileID: 11400000, guid: 2e46afd6b3ddf694cae1d8fe2dd42410, type: 2}
+  uiTags: []
+  customStats:
+  - statName: Damage
+    statValue: 45
+  itemType: 3
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  condition: 1
+  rarity: 2
+  weight: 0
+  value: 0
+  canStack: 0
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 2784903206715208443, guid: 8ea02006c16c0304a92d1218e722c688,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints:
+  - Shield
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  dropObject: {fileID: 5067265677661088984, guid: eb361c7fc2e46cd498919225525e6380,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownResult: []

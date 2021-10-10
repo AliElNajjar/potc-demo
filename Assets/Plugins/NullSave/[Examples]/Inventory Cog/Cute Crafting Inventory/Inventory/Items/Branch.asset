@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Branch
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 5a0a906fe3a06d647b169094c2989cb4, type: 3}
+  displayName: Branch
+  description: When you take "walk softly and carry a big stick" too literally, this
+    is the result.
+  subtext: 
+  category: {fileID: 11400000, guid: e9175e629cbdf454ea4d061e1d999e3d, type: 2}
+  uiTags: []
+  customStats:
+  - statName: Damage
+    statValue: 3
+  customTags: []
+  itemType: 1
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 1
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  previewObject: {fileID: 5296219053201440383, guid: 3e1e6111574a6a04c8f703a4d6dcaba9,
+    type: 3}
+  previewScale: 1
+  condition: 1
+  rarity: 1
+  weight: 0.5
+  value: 1
+  canStack: 0
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 7141985691484199905, guid: 98535b1697b7d044aaf1e21ab09cca86,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints:
+  - LeftHand
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  dropObject: {fileID: 3797720934948091684, guid: 1c0dc0f6e8f67f74e85bbb278c7949f7,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownCategory: 
+  breakdownResult: []
+  z_display_flags: 3725

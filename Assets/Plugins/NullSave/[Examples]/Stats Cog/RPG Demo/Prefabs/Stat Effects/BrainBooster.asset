@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3dc0a1b293c19489cab09819c4168f, type: 3}
+  m_Name: BrainBooster
+  m_EditorClassIdentifier: 
+  displayName: Brain Booster
+  description: Temporarily boosts your intelligence and observence
+  sprite: {fileID: 21300000, guid: eae2aecde07430b47bdc0d9c63027d54, type: 3}
+  displayInList: 1
+  category: Default
+  startedText: 
+  endedText: 
+  removedText: 
+  isDetrimental: 0
+  isBenificial: 1
+  isRemoveable: 1
+  effectParticles: {fileID: 0}
+  canStack: 0
+  modifiers:
+  - affectedStat: INT
+    effectType: 2
+    valueTarget: 0
+    valueType: 0
+    value: 2
+  - affectedStat: OBS
+    effectType: 2
+    valueTarget: 0
+    valueType: 0
+    value: 2
+  cancelEffects: []
+  preventEffects: []
+  hasLifeSpan: 1
+  lifeInSeconds: 30
+  onStart:
+    m_PersistentCalls:
+      m_Calls: []
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
+  currentTab: 0

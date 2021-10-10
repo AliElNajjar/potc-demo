@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d50626e6870efb5489e5b6d9ae6bff11, type: 3}
+  m_Name: Amethyst (Square Cut)
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 49fd01118e42991438b1d2ec52fcff14, type: 3}
+  displayName: Amethyst (Square Cut)
+  description: Attaching this gem to an item will increase your storage capacity by
+    5 slots.
+  subtext: 
+  category: {fileID: 11400000, guid: 1d67b7c2704132b49a93c57a1e6690ce, type: 2}
+  uiTags: []
+  displayRecipe: {fileID: 0}
+  allowCustomName: 0
+  modifyName: 1
+  nameModifier: Expanding
+  modifierOrder: 0
+  customTags: []
+  itemType: 10
+  usesAmmo: 0
+  ammoType: 
+  ammoPerUse: 1
+  displayInInventory: 1
+  useSlotId: 0
+  slotId: 0
+  freeSlotWhenEquipped: 0
+  previewObject: {fileID: 5178367146551410549, guid: 0cd05997c85f72a43b5acbbddd7da676,
+    type: 3}
+  previewScale: 3
+  condition: 1
+  rarity: 0
+  weight: 0
+  value: 300
+  canStack: 1
+  countPerStack: 64
+  hasMaxStacks: 0
+  maxStacks: 4
+  storedItems: []
+  mustEmptyToHold: 1
+  hasMaxStoreSlots: 1
+  maxStoreSlots: 16
+  hasMaxStoreWeight: 0
+  maxStoreWeight: 100
+  equipObject: {fileID: 7838072454104240771, guid: b72147e60226e5742bc864e3df59aa38,
+    type: 3}
+  customizationPoint: {fileID: 0}
+  customizationId: 
+  autoEquip: 0
+  equipLocation: 0
+  equipPoints: []
+  canEquip: 1
+  canDrop: 1
+  canStore: 1
+  equipSource: 0
+  equipExpression: 1 > 0
+  dropObject: {fileID: 4064669754151018019, guid: 3e3c6163120095e47b46127de78cf4d3,
+    type: 3}
+  equipAnimatorMods: []
+  unequipAnimatorMods: []
+  canRepair: 0
+  repairSource: 0
+  repairExpression: 1 > 0
+  repairIncrement: 0.05
+  incrementCost: 10
+  incrementComponents: []
+  canBreakdown: 0
+  breakdownSource: 0
+  breakdownExpression: 1 > 0
+  breakdownCategory: 
+  breakdownResult: []
+  attachRequirement: 0
+  attachCatsFilter: []
+  attachItemsFilter: []
+  attachSlots: []
+  attachObject: {fileID: 7838072454104240771, guid: b72147e60226e5742bc864e3df59aa38,
+    type: 3}
+  attachPoints:
+  - SquareSlot
+  statEffects:
+  - {fileID: 11400000, guid: c329415c5d0882a4fb67f13ae4def220, type: 2}
+  onAttachmentAdded:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  onAttachmentRemoved:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: NullSave.TOCK.Inventory.ItemChanged, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  z_display_flags: 4095

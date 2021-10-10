@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c827e981142e9f43a2558102d30c10c, type: 3}
+  m_Name: RPG Effect List
+  m_EditorClassIdentifier: 
+  availableEffects:
+  - {fileID: 11400000, guid: 4116c9c88da9ff546ad93e4fa818ee8c, type: 2}
+  - {fileID: 11400000, guid: 56dadf99f290e0547bb7bc7a44ec7972, type: 2}
+  - {fileID: 11400000, guid: 627821cdf626ae744878fda592fa7f05, type: 2}
+  - {fileID: 11400000, guid: 0b8bdd498f83a1f4abc269928f16bf02, type: 2}
+  - {fileID: 11400000, guid: 00eccc10314617346a3c66b60ff1d5c3, type: 2}
+  - {fileID: 11400000, guid: 757ab855c3109e241b055fd1e1c463ba, type: 2}
+  - {fileID: 11400000, guid: 458c86b22c7e89f4d9caf7eebe0af7ec, type: 2}
+  - {fileID: 11400000, guid: 0481a5666dcb4c64b92d6807064a9d0d, type: 2}
+  - {fileID: 11400000, guid: 3a9915a9c487c8342815e5a1cfcbad11, type: 2}
+  - {fileID: 11400000, guid: 69a357208a3244e4c801318642a22dab, type: 2}
+  - {fileID: 11400000, guid: 308d29659c5dfd4489cf95aa60a62d25, type: 2}

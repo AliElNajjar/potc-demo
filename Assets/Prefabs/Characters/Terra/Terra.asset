@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df4bec941bb8f6448fcb17832e57ba8, type: 3}
+  m_Name: Terra
+  m_EditorClassIdentifier: 
+  unitParams:
+    unitName: Terra
+    unitDescription: 
+    enduranceParam:
+      baseValue: 60
+      healthPoints: 84
+      constitutionPower: 48
+    strengthParam:
+      baseValue: 70
+      attackPower: 49
+      defensePower: 35
+    intelligenceParam:
+      baseValue: 60
+      magicPower: 42
+      acuityPower: 66
+    agilityParam:
+      baseValue: 110
+      initiativePower: 110
+      accuracyPower: 143
+      evasionPower: 27.5
+    wisdomParam:
+      baseValue: 65
+      manaPoints: 65
+      magicResist: 39
+    spiritParam:
+      baseValue: 70
+      luckPower: 49
+      deftnessPower: 42
+      charismaPower: 14
+  unitClass: {fileID: 11400000, guid: 1c01944832976214a9e3c9f43937d070, type: 2}
+  baseBuffs: []
+  armors:
+  - {fileID: 11400000, guid: 336a76a67d9123642945cef971e24e29, type: 2}
+  weapons:
+  - {fileID: 11400000, guid: 3c4e5d08339c888468f6003855e19457, type: 2}
+  baseSkill: []
+  earnedSkill: []
+  traits: {fileID: 0}
+  moveType: 0
+  shotType: 0
+  affinity: 0
+  rankType: 0
+  parameterGrowth: 0
+  skillPointGrowth: 0
+  experience: 0

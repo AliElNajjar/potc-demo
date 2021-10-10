@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c2c9149e68138847885879568f8c1c0, type: 3}
+  m_Name: Armor 1
+  m_EditorClassIdentifier: 
+  parameters:
+    unitName: 
+    unitDescription: 
+    enduranceParam:
+      baseValue: 5
+      healthPoints: 20
+      constitutionPower: 20
+    strengthParam:
+      baseValue: 5
+      attackPower: 10
+      defensePower: 50
+    intelligenceParam:
+      baseValue: 5
+      magicPower: 2
+      acuityPower: 5
+    agilityParam:
+      baseValue: 5
+      initiativePower: 32
+      accuracyPower: 54
+      evasionPower: 36
+    wisdomParam:
+      baseValue: 5
+      manaPoints: 45
+      magicResist: 65
+    spiritParam:
+      baseValue: 54
+      luckPower: 56
+      deftnessPower: 14
+      charismaPower: 13
+  type: 1
+  part: 0
+  buyValue: 0
+  sellValue: 0
+  level: 0
+  weight: 0

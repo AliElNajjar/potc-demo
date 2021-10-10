@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1635882848403055749
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4142644841394380161}
+  - component: {fileID: 2574281231128566196}
+  - component: {fileID: 4613598407119550400}
+  m_Layer: 31
+  m_Name: Powered Legs (Equip)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4142644841394380161
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635882848403055749}
+  m_LocalRotation: {x: -0.7071069, y: 0.000000027530145, z: -0.000000013486829, w: 0.7071067}
+  m_LocalPosition: {x: -0.17109068, y: 0.31819898, z: -0.0014329888}
+  m_LocalScale: {x: 128.7813, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2574281231128566196
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635882848403055749}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 151b027642c40e3458b03557742a94fa, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 56b19a88402186b44abaa5067bbbc2e1, type: 3}
+  m_Bones:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0.0000000057043508, y: -0.001606284, z: 0.000007910014}
+    m_Extent: {x: 0.0020859023, y: 0.0021150552, z: 0.0006438836}
+  m_DirtyAABB: 0
+--- !u!114 &4613598407119550400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635882848403055749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e54b2c663b8f27458ff76287f4f95fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rootBone: Hips
+  boneNames:
+  - Hips
+  - Spine
+  - Chest
+  - UpperChest
+  - Neck
+  - Head
+  - Head_end
+  - Head_end_end
+  - Shoulder.L
+  - UpperArm.L
+  - LowerArm.L
+  - Hand.L
+  - Thumb.Prox.L
+  - Thumb.Int.L
+  - Thumb.Dist.L
+  - Thumb.Dist.L_end
+  - Thumb.Dist.L_end_end
+  - Index.Prox.L
+  - Index.Int.L
+  - Index.Dist.L
+  - Index.Dist.L_end
+  - Index.Dist.L_end_end
+  - Middle.Prox.L
+  - Middle.Int.L
+  - Middle.Dist.L
+  - Middle.Dist.L_end
+  - Middle.Dist.L_end_end
+  - Shoulder.R
+  - UpperArm.R
+  - LowerArm.R
+  - Hand.R
+  - Thumb.Prox.R
+  - Thumb.Int.R
+  - Thumb.Dist.R
+  - Thumb.Dist.R_end
+  - Thumb.Dist.R_end_end
+  - Index.Prox.R
+  - Index.Int.R
+  - Index.Dist.R
+  - Index.Dist.R_end
+  - Index.Dist.R_end_end
+  - Middle.Prox.R
+  - Middle.Int.R
+  - Middle.Dist.R
+  - Middle.Dist.R_end
+  - Middle.Dist.R_end_end
+  - UpperLeg.L
+  - LowerLeg.L
+  - Foot.L
+  - Toes.L
+  - Toes.L_end
+  - Toes.L_end_end
+  - UpperLeg.R
+  - LowerLeg.R
+  - Foot.R
+  - Toes.R
+  - Toes.R_end
+  - Toes.R_end_end

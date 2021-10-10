@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfb1563420d37f488d40adf498aca58, type: 3}
+  m_Name: MageAnimations
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleDown
+    frames:
+    - {fileID: 493086264190237788, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -694567465798614965, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -6538509784065735063, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 2751185811959220962, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: 1202086559743980104, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 1946276181341033085, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -3591236246180730495, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkRight
+    frames:
+    - {fileID: 6993957198624614350, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -8050876174940857827, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 7937005054101277503, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkLeft
+    frames:
+    - {fileID: 3397108748036318450, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 1832023328138524551, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -1913269227073197077, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 1646684596395754742, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 8246787575217643613, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 8889477978188848535, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 5
+    loop: 1
+  - name: IdleLeft
+    frames:
+    - {fileID: 493086264190237788, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -694567465798614965, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -6538509784065735063, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 2751185811959220962, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleRight
+    frames:
+    - {fileID: 493086264190237788, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -694567465798614965, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -6538509784065735063, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 2751185811959220962, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 2
+    loop: 1
+  - name: IdleUp
+    frames:
+    - {fileID: 493086264190237788, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -694567465798614965, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: -6538509784065735063, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    - {fileID: 2751185811959220962, guid: 249e9bed37fb82a4192815ef7d0eaff3, type: 3}
+    framesPerSec: 2
+    loop: 1

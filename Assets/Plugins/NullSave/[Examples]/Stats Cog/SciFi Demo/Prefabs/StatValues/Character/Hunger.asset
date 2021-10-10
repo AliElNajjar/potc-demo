@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 634836fc5dac3de459b9cd27d02c3da3, type: 3}
+  m_Name: Hunger
+  m_EditorClassIdentifier: 
+  category: Survival
+  value: 0
+  minValue: 0
+  maxValue: 100
+  startWithMaxValue: 0
+  enableRegen: 1
+  regenDelay: 5
+  regenPerSecond: .03
+  enableIncrement: 0
+  incrementWhen: 1 > 2
+  incrementAmount: 0
+  incrementCommand: []
+  onBaseMinValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onBaseValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onBaseMaxValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onMinValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onMaxValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onInit:
+    m_PersistentCalls:
+      m_Calls: []
